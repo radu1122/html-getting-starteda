@@ -1,0 +1,10 @@
+name: html-getting-starteda
+region: us-east-1
+yamlVersion: 2
+frontend:
+    path: ./
+    publish: ./
+    scripts:
+        deploy: ""
+        build: ""
+    subdomain: html-getting-starteda
